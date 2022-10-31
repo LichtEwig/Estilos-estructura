@@ -1,0 +1,103 @@
+
+/*   Anotación    */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(111, 24, 145);
+    padding: 20px;
+}
+
+header nav{
+    background-color: rgb(96, 56, 143);
+    font-family: 'Qestrial';
+    padding: 20px;
+    
+}
+header nav h1 ul li{
+    color: #ff8364;
+}
+
+ul{ 
+        
+    font-family: 'Qestrial', sans-serif;
+    list-style-type: none;
+    
+}
+
+h1{background-image: radial-gradient(circle at 27.25% 1.22%, #ff9062 0, #ff8364 12.5%, #ff7162 25%, #ff595e 37.5%, #ff3858 50%, #ef0053 62.5%, #e20052 75%, #d70055 87.5%, #ce005b 100%);
+
+    color: rgb(226, 226, 226);
+    font-family: 'Questrial', sans-serif;
+}
+h2{
+    background: linear-gradient(to right, rgb(180, 250, 235), rgb(35, 158, 158), rgb(5, 59, 129));
+    color: rgb(72, 27, 131);
+    font-family: 'Questrial', sans-serif;
+    
+}
+h3{
+    color: rgb(16, 53, 153);
+    font-family: 'Qestrial', sans-serif;
+}
+p{   
+    font-family: 'Qestrial', sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+    text-decoration: none;
+}
+
+body{background-image: url(./gato-negro-fondos.com.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+}
+
+section{
+    padding: 20px;
+}
+article p{ 
+    color: #f3f3f3;
+
+} 
+
+.texto1 p{
+    color: #f3f3f3;
+}
+
+.texto2 p{
+    color: rgb(171, 159, 182);
+    font-weight: ;
+    font-size: 100%;
+}
+
+
+
+
+
+
+
+.grad{
+    background-image: radial-gradient(circle at 27.25% 1.22%, #ff9062 0, #ff8364 12.5%, #ff7162 25%, #ff595e 37.5%, #ff3858 50%, #ef0053 62.5%, #e20052 75%, #d70055 87.5%, #ce005b 100%);
+}
+
+.gradiente{
+    background: linear-gradient(to right, rgb(107, 121, 119), rgb(120, 214, 214), rgb(7, 120, 155));
+}
+
+.img_grande{
+    background-image: url(./gato-negro-fondos.com.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.color{
+    background-color: rgb(0, 2, 100);
+}
+
+.img_mosaico{
+    background-image: url(./dogs.jpg);
+    background-size: contain;
